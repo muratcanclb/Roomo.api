@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\ApiProjects\\roomo.api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|d:\\apiprojects\\roomo.api\\roomo.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|solutionrelative:roomo.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|d:\\apiprojects\\roomo.api\\roomo.api\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|solutionrelative:roomo.api\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +17,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|d:\\apiprojects\\roomo.api\\roomo.api\\domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|solutionrelative:roomo.api\\domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|d:\\apiprojects\\roomo.api\\roomo.api\\domain\\dto\\roomstatuscleaningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48E6F96-FEC2-4D47-9AA7-AEE8A844B415}|roomo.api\\roomo.api.csproj|solutionrelative:roomo.api\\domain\\dto\\roomstatuscleaningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 852003e64a118f5fee0c1ab37d84891501e603cd
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +33,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> 852003e64a118f5fee0c1ab37d84891501e603cd
           "Children": [
             {
               "$type": "Document",
@@ -50,13 +65,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\roomo.api\\roomo.api\\Domain\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "roomo.api\\Domain\\Entities\\Status.cs",
+              "ToolTip": "D:\\ApiProjects\\roomo.api\\roomo.api\\Domain\\Entities\\Status.cs",
+              "RelativeToolTip": "roomo.api\\Domain\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:34:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomStatusCleaningDto.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\roomo.api\\roomo.api\\Domain\\Dto\\RoomStatusCleaningDto.cs",
+              "RelativeDocumentMoniker": "roomo.api\\Domain\\Dto\\RoomStatusCleaningDto.cs",
+              "ToolTip": "D:\\ApiProjects\\roomo.api\\roomo.api\\Domain\\Dto\\RoomStatusCleaningDto.cs",
+              "RelativeToolTip": "roomo.api\\Domain\\Dto\\RoomStatusCleaningDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:27:37.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\roomo.api\\roomo.api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "roomo.api\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ApiProjects\\roomo.api\\roomo.api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "roomo.api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:19:41.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\roomo.api\\roomo.api\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "roomo.api\\Controllers\\StatusController.cs",
+              "ToolTip": "D:\\ApiProjects\\roomo.api\\roomo.api\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "roomo.api\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:14:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RoomController.cs",
               "DocumentMoniker": "D:\\ApiProjects\\roomo.api\\roomo.api\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "roomo.api\\Controllers\\RoomController.cs",
               "ToolTip": "D:\\ApiProjects\\roomo.api\\roomo.api\\Controllers\\RoomController.cs",
               "RelativeToolTip": "roomo.api\\Controllers\\RoomController.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAABkAAAAAAAAAAAAgwBcAAAAJAAAA",
+=======
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwBcAAAAJAAAA",
+>>>>>>> 852003e64a118f5fee0c1ab37d84891501e603cd
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T16:22:10.819Z",
               "EditorCaption": ""
