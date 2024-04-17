@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj": {}
+    "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj": {}
   },
   "projects": {
-    "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj": {
+    "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
+        "projectUniqueName": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
         "projectName": "roomo.api",
-        "projectPath": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
+        "projectPath": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
         "packagesPath": "C:\\Users\\MURAT\\.nuget\\packages\\",
-        "outputPath": "D:\\ApiProjects\\Roomo.api\\roomo.api\\obj\\",
+        "outputPath": "D:\\ApiProjects\\roomo.api\\roomo.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

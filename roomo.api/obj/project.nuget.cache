@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rSUs8GbKLeqdIVMyeiZBO0dNeZfUjwvWxq00cpGjt2MBoipaafkKz+N7ng37i/ib589Pe0ggv4sT7PQ9nGZcng==",
+  "dgSpecHash": "oCLKYLV5aVOox4Um6Eo1OnsgsZOpA3py66wNAd0MGGXW1vgloEX63jwPOXOUyAxC3c5anlj9SC3Zc9bg6cphiw==",
   "success": true,
-  "projectFilePath": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
+  "projectFilePath": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MURAT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MURAT\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
