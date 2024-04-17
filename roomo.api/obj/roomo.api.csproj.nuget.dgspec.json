@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj": {}
+    "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj": {}
   },
   "projects": {
-    "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj": {
+    "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
+        "projectUniqueName": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
         "projectName": "roomo.api",
-        "projectPath": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
+        "projectPath": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
         "packagesPath": "C:\\Users\\MURAT\\.nuget\\packages\\",
         "outputPath": "D:\\ApiProjects\\roomo.api\\roomo.api\\obj\\",
         "projectStyle": "PackageReference",

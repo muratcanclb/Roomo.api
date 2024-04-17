@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZIxZmf0eD8OPE5VBBUfB5s4KK/tePTeaF4B6471GzY1SDxgg8eyIssQ/JeSXHF4FmZCubt0z1MxxH1o9XdxeQ==",
+  "dgSpecHash": "Ov23hP2M4t2Px1XbfWs+hqdxHogOKOGEhKdN+K33t/I7wXj2lf3q84otizTKu/BZNw15R9lBIYlye9fANU4Khg==",
   "success": true,
-  "projectFilePath": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
+  "projectFilePath": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MURAT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\MURAT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
