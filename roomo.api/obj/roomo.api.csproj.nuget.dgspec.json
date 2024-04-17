@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj": {}
+    "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj": {}
   },
   "projects": {
-    "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj": {
+    "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
+        "projectUniqueName": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
         "projectName": "roomo.api",
-        "projectPath": "D:\\ApiProjects\\Roomo.api\\roomo.api\\roomo.api.csproj",
+        "projectPath": "D:\\ApiProjects\\roomo.api\\roomo.api\\roomo.api.csproj",
         "packagesPath": "C:\\Users\\MURAT\\.nuget\\packages\\",
         "outputPath": "D:\\ApiProjects\\roomo.api\\roomo.api\\obj\\",
         "projectStyle": "PackageReference",
@@ -50,6 +50,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
