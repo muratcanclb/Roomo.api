@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yrx3NeAWK6EpeSRZKfT2kUK90noBTvwtalYIOa0oN2c=",
+  "Source": "roomo.api",
+  "BasePath": "_content/roomo.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
