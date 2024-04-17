@@ -1,0 +1,6 @@
+@roomo.api_HostAddress = http://localhost:5173
+
+GET {{roomo.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
