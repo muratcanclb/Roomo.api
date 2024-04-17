@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("roomo.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f53e108dc85608dbce44a1cc6bc5eb5879616eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8863a462656d4ebc92211ee9244867f1028dda4")]
 [assembly: System.Reflection.AssemblyProductAttribute("roomo.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("roomo.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
